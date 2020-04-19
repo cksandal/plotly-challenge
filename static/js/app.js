@@ -93,7 +93,7 @@ function gaugeChart(id) {
             fillcolor: '850000',
             line: { color: '850000' }
         }],
-        title: '<b>Belly Button Washing Frequency</b> <br> Subject ID:'+id+', Scrubs per Week',
+        title: '<b>Belly Button Washing Frequency</b> <br>Scrubs per Week',
         xaxis: {zeroline:false, showticklabels:false,
                 showgrid: false, range: [-1, 1]},
         yaxis: {zeroline:false, showticklabels:false,
